@@ -4,12 +4,6 @@
 ## Как использовать?
 
 ```
-package main
-
-import (
-	"your_project/logger"
-)
-
 func main() {
 	log := logger.New()
 
